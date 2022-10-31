@@ -3,11 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package testerrr;
+package src;
 
 /**
  *
- * @author antonsumartono
  */
 class C extends B {
     C(int id, String n){
