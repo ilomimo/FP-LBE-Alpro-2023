@@ -7,7 +7,6 @@ package src;
 
 /**
  *
- * @author antonsumartono
  */
 public abstract class A {
     int id;
