@@ -7,7 +7,6 @@ package src;
 
 /**
  *
- * @author antonsumartono
  */
 class B extends A{
     B(int id, String n){
